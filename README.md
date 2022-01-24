@@ -1,2 +1,2 @@
-# Jundy05.github.io
+# Jundy
 First Site
